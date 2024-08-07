@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.baseus.publicBleSdk</groupId>
+  <artifactId>publicBleSdk</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20240807.035615</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20240807035615</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20240807.035615-1</value>
+        <updated>20240807035615</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.2-20240807.035615-1</value>
+        <updated>20240807035615</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
